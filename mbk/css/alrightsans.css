@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'alright_sansbold';
+    src: url('../fonts/alrightsans-bold-v3-webfont.woff2') format('woff2'),
+         url('../fonts/alrightsans-bold-v3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'alright_sanslight';
+    src: url('../fonts/alrightsans-light-v3-webfont.woff2') format('woff2'),
+         url('../fonts/alrightsans-light-v3-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

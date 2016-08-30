@@ -20,7 +20,7 @@ body{
     box-sizing: border-box;
     line-height: 17vh;
     font-size: 3.5vh;
-    font-family: "droid serif";
+    font-family: "alright_sanslight";
     z-index: 17;
 }
 
@@ -79,7 +79,7 @@ body{
     height: 15vh;
     background-color: #173558;
     color: #f0f4f5;
-    font-family: "droid serif";
+    font-family: "alright_sanslight";
     border-top: 1vh solid rgb(97, 99, 102);
 }
 
