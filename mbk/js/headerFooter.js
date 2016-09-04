@@ -6,15 +6,15 @@ $(window).scroll(function(){
             lastPositionAtTop = false; 
             $("#navbar, #navpadding").stop(true).animate({ 
                 opacity: 0.9,  
-                height: "7vh",
+                height: "10vh",
                 fontSize: "2vh",
                 borderWidth: 0,
-                lineHeight: "7vh",
+                lineHeight: "10vh",
             }, 500);
 
             $("#navlogo").stop(true).animate({
-                height: "7vh",
-                top: 0,
+                height: "9vh",
+                top: ".5vh",
             }, 500);
 
             if($("#navIcon").is(":visible")){
@@ -33,15 +33,15 @@ $(window).scroll(function(){
             lastPositionAtTop = true; 
             $("#navbar, #navpadding").stop(true).animate({ 
                 opacity: 1,
-                height: "20vh",
+                height: "25vh",
                 borderBottomWidth: "1.5vh",
                 borderTopWidth: "1.5vh",
                 fontSize: "3.5vh",
-                lineHeight: "17vh",
+                lineHeight: "22vh",
             }, 500);
 
             $("#navlogo").stop(true).animate({
-                height: "16vh",
+                height: "21vh",
                 top: "2vh",
             }, 500);
 
