@@ -20,7 +20,8 @@ $(window).scroll(function(){
             if($("#navIcon").is(":visible")){
                 $("#navIcon").stop(true).animate({
                     height: "5vh",
-                    marginTop: "1vh",
+                    marginTop: "2.5vh",
+                    
                 }, 500);
             }
             
@@ -48,7 +49,7 @@ $(window).scroll(function(){
             if($("#navIcon").is(":visible")){
                 $("#navIcon").stop(true).animate({
                     height: "8vh",
-                    marginTop: "4.75vh",
+                    marginTop: "8vh",
                 }, 500);
             }
             
