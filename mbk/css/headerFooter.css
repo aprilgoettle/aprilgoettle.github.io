@@ -4,6 +4,7 @@ body{
     padding-top:0;
     background-color: #f0f4f5;
 }
+
 #navbar a{
     text-decoration: none;
     color: #f0f4f5;
@@ -68,10 +69,17 @@ body{
     text-decoration: underline !important;
 }
 
-
 #navpadding{
     height: 20vh;
 }
+
+.btn btn-primary{
+	font:Merriweather;
+        background-color:#173558;
+        color: #f0f4f5;
+        text-decoration: none;
+} 
+        
 
 #footer{
     width: 100vw;
