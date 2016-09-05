@@ -171,13 +171,13 @@ body{
 	    height: 440px;
 		padding: 20px;
 		border: 2px solid #CCC;
-		margin-bottom: 20px;
+		margin-bottom: 10px;
 		background: #FFF;
 		}
 			
     #map-container {
         position: relative;
-        padding-bottom: 50%; 
+        padding-bottom: 75%; 
         overflow: hidden;
     }
     #map-container iframe {
