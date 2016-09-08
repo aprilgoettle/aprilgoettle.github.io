@@ -179,14 +179,10 @@ body{
         position: relative;
         /*overflow: hidden;*/
     }
-    /* #map-container iframe {
-        padding-top:30px;
-	position: absolute;
-        top: 0;
-        left: 0;
-        width: 100% !important;
-        height: 40%;
-    }*/
+     #map-container iframe {
+        width: 100% 
+        height: 100%;
+    }
 	
 	#facebook {
 		height: 40px;
