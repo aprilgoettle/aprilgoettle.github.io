@@ -177,12 +177,12 @@ body{
 			
     #map-container {
         position: relative;
-        padding-bottom: 75%; 
+        <!--padding-bottom: 75%; -->
         overflow: hidden;
     }
     #map-container iframe {
         padding-top:30px;
-		position: absolute;
+	position: relative;
         top: 0;
         left: 0;
         width: 100% !important;
