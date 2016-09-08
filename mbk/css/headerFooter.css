@@ -181,7 +181,7 @@ body{
         overflow: hidden;
     }
     #map-container iframe {
-       <!-- padding-top:30px;-->
+        padding-top:30px;
 	position: relative;
         top: 0;
         left: 0;
