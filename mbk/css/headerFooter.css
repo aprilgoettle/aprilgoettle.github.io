@@ -177,17 +177,16 @@ body{
 			
     #map-container {
         position: relative;
-        padding-bottom: 75%;
-        overflow: hidden;
+        <!--overflow: hidden;-->
     }
-    #map-container iframe {
+    <!-- #map-container iframe {
         padding-top:30px;
 	position: absolute;
         top: 0;
         left: 0;
         width: 100% !important;
         height: 40%;
-    }
+    }-->
 	
 	#facebook {
 		height: 40px;
