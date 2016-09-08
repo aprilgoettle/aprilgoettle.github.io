@@ -191,17 +191,5 @@ body{
 		padding-bottom: 10px;
 	}
 	
-	@media all and (max-width: 1024px) {
-			
-			#map-container iframe {
-				padding-top:30px;
-				position: absolute;
-				top: 0;
-				left: 0;
-				width: 100% !important;
-				height: 65%;
-			}
-			
-		}
-    
+	
 
