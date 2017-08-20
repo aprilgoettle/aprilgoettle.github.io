@@ -1,0 +1,79 @@
+h1 {
+	font-size: 9vh;
+	padding-left: 2vw;
+    margin: 0;
+}
+
+h2 {
+	font-size: 4vh;
+	padding-top: .5em;
+    margin: 0;
+}
+
+.menu {
+	color: #FFA500;
+	text-shadow: 0.05em 0.05em 0.025em #404040;
+}
+
+h2 > img {
+	vertical-align: middle;
+	height: 3em;
+}
+
+body, html {
+    font-family: Montserrat, sans-serif;
+	font-size: 4vh;
+	background-image: url('../images/playful-kitten-6683.jpg');
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100vh;
+	/*margin: 0;*/
+}
+
+nav {
+	position: absolute;
+	bottom: 1em;
+	right: 0.5em;
+	font-size: 5vh;
+}
+
+nav > a {
+	text-decoration: none;
+	margin-right: .5em;
+	display: inline-block;
+	vertical-align: bottom;
+	transition: padding-bottom 0.25s;
+}
+
+
+#pawprint {
+	position: absolute;
+	bottom: -0.2em;
+	left: -100vw;
+	height: 4vh;
+}
+
+#popup {
+	/*display: none;*/
+    color: #FFA500;
+    left: 50%;
+	top: 50%;
+	position: absolute;
+    max-width: 60%vw;
+    max-height: 60%vh;
+	background-color: rgba(0,0,0,.8);
+	padding: 0.5em;
+	border-radius: 0.5em;
+	border: 3px solid #FFA500;
+	
+}
+
+.close {
+	position: absolute;
+	right: -2vh;
+	top: -2vh;
+	width: 4vh;
+	height: 4vh;
+}
+
